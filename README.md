@@ -1,6 +1,7 @@
 # OpenBelief
 
 ### A Framework for Consciousness, Mortality, and Ethics — Grounded in Physics, Open to Wonder
+A framework of belief, not religion or dogma, but a belief in the quantum wave effect propagated by the universe and presented as consciousness in the crests of local wave effects.
 
 *Formerly known (affectionately) as The Cult of the Eternal Field*
 
